@@ -1,0 +1,11 @@
+{
+  "name": "مركز الشلول للتايكوندو",
+  "short_name": "الشلول",
+  "start_url": "/alshlool/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#cc1a1a",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]
+}
